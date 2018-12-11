@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 modif 3 050
 modif 090
-
-=======
 modif 090 for commit 4
->>>>>>> 7770355... commit 4 for branch5
+
